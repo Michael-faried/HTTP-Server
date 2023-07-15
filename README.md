@@ -1,7 +1,6 @@
 # HTTP Server
 ### Network Application to connect a Client with an HTTP Server
 
-
 ### Implement part of the HTTP protocol.
 - Threaded (multiple clients)
 - GET only.
